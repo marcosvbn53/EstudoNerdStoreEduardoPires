@@ -1,0 +1,15 @@
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.deps.json
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\bin\Debug\net6.0\NSE.MessageBus.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\bin\Debug\net6.0\NSE.Core.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.AssemblyReference.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.AssemblyInfoInputs.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.AssemblyInfo.cs
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.CoreCompileInputs.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.csproj.CopyComplete
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\refint\NSE.MessageBus.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\NSE.MessageBus.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\NerdStoreEnterprese\src\building blocks\NSE.MessageBus\obj\Debug\net6.0\ref\NSE.MessageBus.dll
