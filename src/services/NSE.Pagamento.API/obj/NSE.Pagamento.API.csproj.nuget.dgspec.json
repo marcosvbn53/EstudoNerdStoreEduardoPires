@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj": {}
+    "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj": {}
   },
   "projects": {
-    "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj": {
+    "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+        "projectUniqueName": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
         "projectName": "NSE.Pagamento.API",
-        "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+        "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Pagamento.API\\obj\\",
+        "outputPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Pagamento.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

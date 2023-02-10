@@ -1,0 +1,17 @@
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NSE.Pedidos.Dominio.deps.json
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NSE.Pedidos.Dominio.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NSE.Pedidos.Dominio.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NetDevPack.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NSE.Core.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NSE.Core.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\bin\Debug\net6.0\NetDevPack.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.csproj.AssemblyReference.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.AssemblyInfoInputs.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.AssemblyInfo.cs
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.csproj.CoreCompileInputs.cache
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.csproj.CopyComplete
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\refint\NSE.Pedidos.Dominio.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\NSE.Pedidos.Dominio.pdb
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.Dominio\obj\Debug\net6.0\ref\NSE.Pedidos.Dominio.dll

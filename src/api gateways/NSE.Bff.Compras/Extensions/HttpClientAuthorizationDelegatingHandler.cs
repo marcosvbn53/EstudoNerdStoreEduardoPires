@@ -23,6 +23,10 @@ namespace NSE.Bff.Compras.Extensions
 
             var token = _userHttpAcesso.ObterUserToken();
 
+            /*
+            if(string.IsNullOrWhiteSpace(token) && authorizationHeader.Count() > 0)            
+                token = authorizationHeader[0].Replace("Bearer ", "");
+            */
             if(token != null)
             {
                 request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);

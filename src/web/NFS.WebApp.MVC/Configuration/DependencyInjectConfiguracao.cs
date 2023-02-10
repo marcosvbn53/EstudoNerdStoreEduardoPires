@@ -61,14 +61,15 @@ namespace NFS.WebApp.MVC.Configuration
 
             #endregion
 
-            services.AddTransient<HandlerClientAuthorizationDelegationHandler>();
+            //services.AddTransient<HandlerClientAuthorizationDelegationHandler>();
+            services.AddScoped<HandlerClientAuthorizationDelegationHandler>();
 
             services.AddHttpClient<ICatalogoService, CatalogoService>()
                 .AddHttpMessageHandler<HandlerClientAuthorizationDelegationHandler>()
                 .AddPolicyHandler(PollyExtension.EsperarTentar())
                 .AddTransientHttpErrorPolicy(p => p.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));
 
-            services.AddHttpClient<ICarrinhoService, CarrinhoService>()
+            services.AddHttpClient<IComprasBffServices, ComprasBffServices>()
                 .AddHttpMessageHandler<HandlerClientAuthorizationDelegationHandler>()
                 .AddPolicyHandler(PollyExtension.EsperarTentar())
                 .AddTransientHttpErrorPolicy(px => px.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));

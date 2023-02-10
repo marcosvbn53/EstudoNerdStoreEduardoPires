@@ -16,6 +16,8 @@ namespace NSE.Bff.Compras.Configuration
 
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();
 
+            //services.AddScoped<HttpClientAuthorizationDelegatingHandler>();
+
             services.AddHttpClient<ICatalogoService, CatalogoService>()
                 .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
                 .AddPolicyHandler(PollyExtension.EsperarTentar())

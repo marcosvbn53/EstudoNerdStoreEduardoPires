@@ -5,16 +5,16 @@ namespace NFS.WebApp.MVC.Extensions
 {
     public class CarrinhoViewComponent : ViewComponent
     {
-        private readonly ICarrinhoService _carrinhoService;
+        private readonly IComprasBffServices _carrinhoService;
 
-        public CarrinhoViewComponent(ICarrinhoService carrinhoService)
+        public CarrinhoViewComponent(IComprasBffServices carrinhoService)
         {
             _carrinhoService = carrinhoService;
         }
 
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            return View(await _carrinhoService.ObterCarrinho() ?? new Models.CarrinhoViewModel());
+            return View(await _carrinhoService.ObterQuantidadeCarrinho());
         }
     }
 }

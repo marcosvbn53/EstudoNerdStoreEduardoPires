@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using NSE.Clientes.API.Data;
+using NSE.WebAPI.Core.Identidade;
 
 namespace NSE.Clientes.API.Configuration
 {
@@ -36,7 +37,7 @@ namespace NSE.Clientes.API.Configuration
 
             app.UseCors("Total");
 
-            //app.UseAuthConfiguration();
+            app.UsarIdentityConfiguracao();
 
             app.MapControllers();
         }

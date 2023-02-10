@@ -974,6 +974,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation": "11.4.0",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "mediatr": "8.0.1"
         },
@@ -2491,11 +2492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+      "projectUniqueName": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
       "projectName": "NSE.Catalogo.API",
-      "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+      "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\services\\NSE.Catalogo.API\\obj\\",
+      "outputPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\services\\NSE.Catalogo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -2522,11 +2523,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
-              "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
+            "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\building blocks\\NSE.Core\\NSE.Core.csproj": {
+              "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\building blocks\\NSE.Core\\NSE.Core.csproj"
             },
-            "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
-              "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
+            "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
+              "projectPath": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
             }
           }
         }

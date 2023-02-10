@@ -3,95 +3,125 @@ using Microsoft.AspNetCore.Mvc;
 using NFS.WebApp.MVC.Controllers.Base;
 using NFS.WebApp.MVC.Models;
 using NFS.WebApp.MVC.Services.Interfaces;
-using NSE.WebAPI.Core.Controllers;
 
 namespace NFS.WebApp.MVC.Controllers
 {
     [Authorize]
     public class CarrinhoController : BaseController
     {
-        private readonly ICarrinhoService _carrinhoService;
-        private readonly ICatalogoService _catalogoService;
+        private readonly IComprasBffServices _ComprasBffService;
 
-        public CarrinhoController(ICarrinhoService carrihoService, 
-            ICatalogoService catalogoService)
+        #region Antes da implementação do ComprasBff
+        //private readonly ICatalogoService _catalogoService;
+        //private readonly ICarrinhoService _CarrinhoService;
+        #endregion
+
+        public CarrinhoController(
+            IComprasBffServices comprasBffService
+             /*,ICatalogoService catalogoService
+               ,ICarrinhoService carrinhoService
+              */)
         {
-            _carrinhoService = carrihoService;
-            _catalogoService = catalogoService;
+            _ComprasBffService = comprasBffService;            
+            //_CarrinhoService = carrinhoService;
+            //_catalogoService = catalogoService;
         }
 
         [Route("carrinho")]
         public async Task<IActionResult> Index()
         {
-            return View(await _carrinhoService.ObterCarrinho());
+            return View(await _ComprasBffService.ObterCarrinho());
         }
 
         [HttpPost]
         [Route("carinho/adicionar-item")]
-        public async Task<IActionResult> AdicionarItemCarrinho(ItemProdutoViewModel itemProduto)
+        public async Task<IActionResult> AdicionarItemCarrinho(ItemCarrinhoViewModel itemCarrinho)
         {
-            var produto = await _catalogoService.ObterPorId(itemProduto.ProdutoId);
+            #region Antes da implementação do ComprasBFF
+            //var produto = await _catalogoService.ObterPorId(itemCarrinho.ProdutoId);
 
-            ValidarItemCarrinho(produto, itemProduto.Quantidade);
+            //ValidarItemCarrinho(produto, itemCarrinho.Quantidade);
 
-            if (!OperacaoValida()) return View("Index", await _carrinhoService.ObterCarrinho());
+            //if (!OperacaoValida()) return View("Index", await _CarrinhoService.ObterCarrinho());
 
-            itemProduto.Nome = produto.Nome;
-            itemProduto.Valor = produto.Valor;
-            itemProduto.Imagem = produto.Imagem;
+            //itemCarrinho.Nome = produto.Nome;
+            //itemCarrinho.Valor = produto.Valor;
+            //itemCarrinho.Imagem = produto.Imagem;
 
-            var resposta = await _carrinhoService.AdicionarItemCarrinho(itemProduto);
+            //var resposta = await _CarrinhoService.AdicionarItemCarrinho(itemCarrinho);
 
-            if (ResponsePossuiErros(resposta)) 
-                return View("Index", await _carrinhoService.ObterCarrinho());            
+            //if (ResponsePossuiErros(resposta)) 
+            //    return View("Index", await _ComprasBffService.ObterCarrinho());            
+            //return RedirectToAction("Index");            
+            #endregion
+
+            #region Após a implementação do ComprasBff
+            var resposta = await _ComprasBffService.AdicionarItemCarrinho(itemCarrinho);
+
+            if (ResponsePossuiErros(resposta)) return View("Index", await _ComprasBffService.ObterCarrinho());
 
             return RedirectToAction("Index");
+            #endregion 
         }
 
         [HttpPost]
         [Route("carrinho/atualizar-item")]
         public async Task<IActionResult> AtualizarItemCarrinho(Guid produtoId, int quantidade)
         {
+            #region Antes da implementação do ComprasBff
+            //var produto = await _catalogoService.ObterPorId(produtoId);
 
-            var produto = await _catalogoService.ObterPorId(produtoId);
+            //ValidarItemCarrinho(produto, quantidade);
+
+            //if (!OperacaoValida()) return View("Index", await _CarrinhoService.ObterCarrinho());
+
+
+            //var itemProduto = new ItemCarrinhoViewModel { ProdutoId = produtoId, Quantidade = quantidade };
+            //var resposta = await _CarrinhoService.AtualizarItemCarrinho(produtoId, itemProduto);
+
+            //if (ResponsePossuiErros(resposta)) return View("Index", await _CarrinhoService.ObterCarrinho());
+
+            //return RedirectToAction("Index");
+            #endregion
+
+            #region Após A implementação do compras Bff
+            var item = new ItemCarrinhoViewModel { ProdutoId = produtoId, Quantidade = quantidade };
             
-            ValidarItemCarrinho(produto, quantidade);
+            var resposta = await _ComprasBffService.AtualizarItemCarrinho(produtoId, item);
 
-            if (!OperacaoValida()) return View("Index", await _carrinhoService.ObterCarrinho());
-
-
-            var itemProduto = new ItemProdutoViewModel { ProdutoId = produtoId, Quantidade = quantidade };
-            var resposta = await _carrinhoService.AtualizarItemCarrinho(produtoId, itemProduto);
-
-            if (ResponsePossuiErros(resposta)) return View("Index", await _carrinhoService.ObterCarrinho());
+            if (ResponsePossuiErros(resposta)) return View("Index", await _ComprasBffService.ObterCarrinho());
 
             return RedirectToAction("Index");
+            #endregion
+
         }
 
         [HttpPost]
         [Route("carrinho/remover-item")]
         public async Task<IActionResult> RemoverItemCarrinho(Guid produtoId)
         {
-            var produto = await _catalogoService.ObterPorId(produtoId);
+            #region Antes da implementação do comprasBff
+            //var produto = await _catalogoService.ObterPorId(produtoId);
 
-            if(produto == null)
-            {
-                AdicionarErroValidacao("Produto inexistente!");
-                return View("Index", await _carrinhoService.RemoverItemCarrinho(produtoId));
-            }
+            //if(produto == null)
+            //{
+            //    AdicionarErroValidacao("Produto inexistente!");
+            //    return View("Index", await _CarrinhoService.RemoverItemCarrinho(produtoId));
+            //}
 
-            var resposta = await _carrinhoService.RemoverItemCarrinho(produtoId);
+            //var resposta = await _CarrinhoService.RemoverItemCarrinho(produtoId);
 
-            if (ResponsePossuiErros(resposta)) return View("Index", await _carrinhoService.ObterCarrinho());
+            //if (ResponsePossuiErros(resposta)) return View("Index", await _CarrinhoService.ObterCarrinho());
+
+            //return RedirectToAction("Index");
+            #endregion 
+
+            var resposta = await _ComprasBffService.RemoverItemCarrinho(produtoId);
+
+            if (ResponsePossuiErros(resposta)) return View("Index", await _ComprasBffService.ObterCarrinho());
 
             return RedirectToAction("Index");
         }
 
-        private void ValidarItemCarrinho(ProdutoViewModel produto, int quantidade)
-        {
-            if (produto == null) AdicionarErroValidacao("Produto inexistencia!");
-            if (quantidade < 1) AdicionarErroValidacao($"Escolha ao menos uma unidade do produto {produto.Nome}");
-            if (quantidade > produto.QuantidadeEstoque) AdicionarErroValidacao($"O produto {produto.Nome} possui {produto.QuantidadeEstoque}  unidades em estoque, você selecionou {quantidade} ");
-        }
     }
 }

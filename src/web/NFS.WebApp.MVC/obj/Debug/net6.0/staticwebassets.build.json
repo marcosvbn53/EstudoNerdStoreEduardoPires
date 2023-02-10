@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZBFixPtmox7dbVFWMmrz6e976QR1ONIhZsrDPzSBAvw=",
+  "Hash": "toDP9QOfhyxQJ/cZ/g1FclUdXKj0Tzu2pchMVeF27Aw=",
   "Source": "NFS.WebApp.MVC",
   "BasePath": "_content/NFS.WebApp.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NFS.WebApp.MVC\\wwwroot",
       "Source": "NFS.WebApp.MVC",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NFS.WebApp.MVC.styles.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NFS.WebApp.MVC.styles.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "NFS.WebApp.MVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NFS.WebApp.MVC.styles.css"
+      "OriginalItemSpec": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NFS.WebApp.MVC.styles.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NFS.WebApp.MVC.bundle.scp.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NFS.WebApp.MVC.bundle.scp.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "NFS.WebApp.MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NFS.WebApp.MVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NFS.WebApp.MVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\responsive.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\responsive.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\responsive.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "css/responsive.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\site.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\ui.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\ui.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "css/ui.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ui.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\ui.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\css\\ui.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "css/ui.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ui.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\favicon.ico",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\all.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\all.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/all.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\all.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\all.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\all.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/all.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\brands.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\brands.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/brands.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\brands.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\brands.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\brands.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/brands.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\fontawesome.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\regular.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\regular.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/regular.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\regular.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\regular.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\regular.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/regular.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\solid.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\solid.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/solid.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\solid.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\solid.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\solid.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/solid.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\svg-with-js.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\css\\v4-shims.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_animated.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_animated.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_animated.scss",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_animated.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_bordered-pulled.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_bordered-pulled.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_core.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_core.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_core.scss",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_core.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_fixed-width.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_fixed-width.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_icons.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_icons.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_icons.scss",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_icons.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_larger.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_larger.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_larger.scss",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_larger.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_list.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_list.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_list.scss",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_list.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_mixins.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_mixins.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_mixins.scss",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_mixins.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_rotated-flipped.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_rotated-flipped.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_screen-reader.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_screen-reader.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_screen-reader.scss",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_screen-reader.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_shims.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_shims.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_shims.scss",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_shims.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_stacked.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_stacked.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_stacked.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_stacked.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_variables.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\_variables.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/_variables.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\_variables.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\brands.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\brands.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/brands.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\brands.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\fontawesome.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\fontawesome.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/fontawesome.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\fontawesome.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\regular.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\regular.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/regular.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\regular.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\solid.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\solid.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/solid.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\solid.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\v4-shims.scss",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\scss\\v4-shims.scss",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/scss/v4-shims.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\scss\\v4-shims.scss"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "fonts/fontawesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar1.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar1.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/avatars/avatar1.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\avatar1.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar2.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar2.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/avatars/avatar2.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\avatar2.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar3.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\avatars\\avatar3.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/avatars/avatar3.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\avatar3.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\1.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\1.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/banners/1.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\1.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\nerdstore.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\nerdstore.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/banners/nerdstore.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\nerdstore.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\Template.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\Template.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/banners/Template.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\Template.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\Template.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\banners\\Template.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/banners/Template.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\Template.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-american-ex.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-american-ex.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/icons/pay-american-ex.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pay-american-ex.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-bank.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-bank.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/icons/pay-bank.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pay-bank.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-mastercard.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-mastercard.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/icons/pay-mastercard.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pay-mastercard.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-visa.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-visa.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/icons/pay-visa.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pay-visa.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-visa-el.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\icons\\pay-visa-el.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/icons/pay-visa-el.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pay-visa-el.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\logo.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\appstore.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\appstore.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/misc/appstore.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\misc\\appstore.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\payments.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\payments.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/misc/payments.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\misc\\payments.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\playmarket.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\misc\\playmarket.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/misc/playmarket.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\misc\\playmarket.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta1.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta1.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/camiseta1.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\camiseta1.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta2.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta2.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/camiseta2.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\camiseta2.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta3.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta3.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/camiseta3.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\camiseta3.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta4.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\camiseta4.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/camiseta4.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\camiseta4.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca1.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca1.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/caneca1.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\caneca1.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca2.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca2.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/caneca2.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\caneca2.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca3.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca3.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/caneca3.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\caneca3.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca4.jpg",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\caneca4.jpg",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/caneca4.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\caneca4.jpg"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\cards.png",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\images\\produtos\\cards.png",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "images/produtos/cards.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\produtos\\cards.png"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\js\\script.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\js\\script.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\js\\site.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "NFS.WebApp.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\NerdStoreEnterprese\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
+      "ContentRoot": "D:\\HomeDesenvolvimentoGeral\\ProjetosCursoEnterpriseEduardoPires\\EstudoNerdStoreEduardoPires\\src\\web\\NFS.WebApp.MVC\\wwwroot\\",
       "BasePath": "_content/NFS.WebApp.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

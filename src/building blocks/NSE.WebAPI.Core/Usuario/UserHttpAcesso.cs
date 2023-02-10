@@ -16,8 +16,7 @@ namespace NSE.WebAPI.Core.Usuario
 
         public bool EstaAutenticado()
         {
-            string header = _accessor.HttpContext.Request.Headers["Authorization"];
-            var teste = _accessor.HttpContext.User.GetUserId();
+            string header = _accessor.HttpContext.Request.Headers["Authorization"];            
             return _accessor.HttpContext.User.Identity.IsAuthenticated;
         }
 
