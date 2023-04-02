@@ -29,6 +29,16 @@ namespace NSE.Pedidos.Dominio.Vouchers
             Ativo = false;
             Utilizado = true;
             Quantidade = 0;
+            DataUtilizacao = DateTime.Now;
         }
+
+        public void DebitarQuantidade()
+        {
+            Quantidade -= 1;
+            if (Quantidade >= 1) return;
+
+            MarcarComoUtilizado();
+        }
+
     }
 }

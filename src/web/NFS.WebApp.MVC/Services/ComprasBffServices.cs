@@ -52,7 +52,7 @@ namespace NFS.WebApp.MVC.Services
             if (!TratarErrosResponse(response)) return await DeserializarObjeto<ResponseResult>(response);
 
             return RetornoOk();
-        }        
+        }
 
         public async Task<ResponseResult> RemoverItemCarrinho(Guid produtoId)
         {
@@ -60,6 +60,17 @@ namespace NFS.WebApp.MVC.Services
             if (!TratarErrosResponse(response)) return await DeserializarObjeto<ResponseResult>(response);
 
             return RetornoOk();
-        }        
+        }
+
+        public async Task<ResponseResult> AplicarVoucherCarrinho(string voucher)
+        {
+            var itemContent = ObterConteudo(voucher);
+
+            var response = await _httpClient.PostAsync("/compras/carrinho/aplicar-voucher/", itemContent);
+
+            if(!TratarErrosResponse(response)) return await DeserializarObjeto<ResponseResult>(response);
+
+            return RetornoOk();
+        }
     }
 }

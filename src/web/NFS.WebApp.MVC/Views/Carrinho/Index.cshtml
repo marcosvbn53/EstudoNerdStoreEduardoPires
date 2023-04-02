@@ -10,23 +10,23 @@
         <vc:summary></vc:summary>
 
         @{
-            if(Model.Itens.Any())
+            if (Model.Itens.Any())
             {
                 <div class="row">
                     <main class="col-md-9">
-                    <div class="card">
+                        <div class="card">
 
-                        <table class="table table-borderless table-shopping-cart">
-                            <thead class="text-muted">
-                                <tr class="small text-uppercase">
-                                    <th scope="col">Produto</th>
-                                    <th scope="col">Valor</th>
-                                    <th scope="col">Quantidade</th>
-                                    <th scope="col"></th>
-                                    <th scope="col"></th>
-                                </tr>
-                            </thead>
-                            <tbody>
+                            <table class="table table-borderless table-shopping-cart">
+                                <thead class="text-muted">
+                                    <tr class="small text-uppercase">
+                                        <th scope="col">Produto</th>
+                                        <th scope="col">Valor</th>
+                                        <th scope="col">Quantidade</th>
+                                        <th scope="col"></th>
+                                        <th scope="col"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
                                     @{
                                         foreach (var item in Model.Itens)
                                         {
@@ -102,21 +102,24 @@
                     <aside class="col-md-3">
                         <div class="card mb-3">
                             <div class="card-body">
-                                <form>
+                                <form asp-action="AplicarVoucher">
                                     <div class="form-group">
                                         <label>Possui um Cupom?</label>
+
                                         <div class="input-group">
-                                            <input type="text" class="form-control" name="" placeholder="Cupom Desconto">
+                                            <input type="text" class="form-control" name="VoucherCodigo" id="VoucherCodigo" placeholder="Cupom Desconto">
                                             <span class="input-group-append">
                                                 <button class="btn btn-primary">Aplicar</button>
                                             </span>
                                         </div>
+
                                     </div>
                                 </form>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-body">
+                                <!--
                                 <dl class="dlist-align">
                                     <dt>Valor Total:</dt>
                                     <dd class="text-right">@this.FormatoMoeda(Model.ValorTotal)</dd>
@@ -125,6 +128,20 @@
                                     <dt>Desconto:</dt>
                                     <dd class="text-right">R$ 0,00</dd>
                                 </dl>
+                                -->
+                                @{
+                                    if (Model.VoucherUtilizado)
+                                    {
+                                        <dl class="dlist-align">
+                                            <dt>Valor original:</dt>
+                                            <dd class="text-right">@this.FormatoMoeda(Model.ValorTotal + Model.Desconto)</dd>
+                                        </dl>
+                                        <dl class="dlist-align" style="color:green">
+                                            <dt>Desconto:</dt>
+                                            <dd class="text-right">@this.FormatoMoeda(Model.Desconto)</dd>
+                                        </dl>
+                                    }
+                                }
                                 <dl class="dlist-align">
                                     <dt>Total:</dt>
                                     <dd class="text-right  h5">

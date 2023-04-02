@@ -11,7 +11,6 @@ namespace NSE.WebAPI.Core.Controllers
         public ICollection<string> Erros = new List<string>();
         protected ActionResult CustomResponse(object result = null)
         {
-
             if (OperacaoValida())
             {
                 return Ok(result);
@@ -80,6 +79,5 @@ namespace NSE.WebAPI.Core.Controllers
         {
             Erros.Clear();
         }
-
     }
 }

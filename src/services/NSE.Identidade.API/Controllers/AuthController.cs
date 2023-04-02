@@ -39,14 +39,19 @@ namespace NSE.Identidade.API.Controllers
             {
                 //Aqui vamos chamar o nosso método de integração para criar o registro do cliente, contudo 
                 //a requisição que virá abaixo só colocar a nossa solicitação na fila para criar o cliente
-                var ClienteResult = await RegistrarCliente(usuarioRegistro);
+                
+                //var ClienteResult = await RegistrarCliente(usuarioRegistro);
+
                 //Agora vamos validar se não houve nenhum erro ao criar o cliente, pois se houver algum
                 //erro é necessário remover o usuário e repassar os erros encontrados para a aplicação que requisitou a criação.
+
+                /*
                 if (!ClienteResult.ValidationResult.IsValid)
                 {
                     await _autenticacaoJwtBll.UserManager.DeleteAsync(user);
                     return CustomResponse(ClienteResult.ValidationResult);
                 }
+                */
 
                 //Persistente: define se o usuáio vai ser lembrado
                 //O método abaixo comentado foi usado apenas de teste para fazer login 

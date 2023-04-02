@@ -61,7 +61,7 @@ namespace NSE.Bff.Compras.Services
         {
             var itemContent = ObterConteudo(voucher);
 
-            var response = await _httpClient.PostAsync("/carrinho/aplicar-voucher", itemContent);
+            var response = await _httpClient.PostAsync("/carrinho/aplicar-voucher/", itemContent);
 
             if (!TratarErrosResponse(response)) return await DeserializarObjetoResponse<ResponseResult>(response);
 

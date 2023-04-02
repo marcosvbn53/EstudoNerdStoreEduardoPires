@@ -123,5 +123,17 @@ namespace NFS.WebApp.MVC.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpPost]
+        [Route("carrinho/aplicar-voucher")]
+        public async Task<IActionResult> AplicarVoucher(string voucherCodigo)
+        {
+            var resposta = await _ComprasBffService.AplicarVoucherCarrinho(voucherCodigo);
+
+            if (ResponsePossuiErros(resposta)) return View("Index", await _ComprasBffService.ObterCarrinho());
+
+            return RedirectToAction("Index");
+        }
+
+
     }
 }

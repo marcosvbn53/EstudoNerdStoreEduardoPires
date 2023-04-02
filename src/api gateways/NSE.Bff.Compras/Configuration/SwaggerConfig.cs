@@ -10,7 +10,7 @@ namespace NSE.Bff.Compras.Configuration
             {
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
-                    Title = "NerdStore Enterprise Carrinho API",
+                    Title = "NerdStore Enterprise BFF API",
                     Description = "Esta API faz parte do curso ASP.Net core Enterprese Application.",
                     Contact = new OpenApiContact()
                     {

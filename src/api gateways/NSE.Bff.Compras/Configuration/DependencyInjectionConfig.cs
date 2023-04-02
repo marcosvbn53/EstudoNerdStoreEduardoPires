@@ -14,9 +14,7 @@ namespace NSE.Bff.Compras.Configuration
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IUserHttpAcesso, UserHttpAcesso>();
 
-            services.AddTransient<HttpClientAuthorizationDelegatingHandler>();
-
-            //services.AddScoped<HttpClientAuthorizationDelegatingHandler>();
+            services.AddTransient<HttpClientAuthorizationDelegatingHandler>();            
 
             services.AddHttpClient<ICatalogoService, CatalogoService>()
                 .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
@@ -24,6 +22,11 @@ namespace NSE.Bff.Compras.Configuration
                 .AddTransientHttpErrorPolicy(px => px.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));
 
             services.AddHttpClient<ICarrinhoService, CarrinhoService>()
+                .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
+                .AddPolicyHandler(PollyExtension.EsperarTentar())
+                .AddTransientHttpErrorPolicy(px => px.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));
+
+            services.AddHttpClient<IPedidoService, PedidoService>()
                 .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
                 .AddPolicyHandler(PollyExtension.EsperarTentar())
                 .AddTransientHttpErrorPolicy(px => px.CircuitBreakerAsync(5, TimeSpan.FromSeconds(30)));

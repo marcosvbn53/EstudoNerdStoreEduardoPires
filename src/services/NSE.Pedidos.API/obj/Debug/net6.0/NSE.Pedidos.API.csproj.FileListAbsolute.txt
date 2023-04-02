@@ -71,7 +71,6 @@ D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreE
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.AssemblyInfoInputs.cache
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.AssemblyInfo.cs
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.csproj.CoreCompileInputs.cache
-D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.MvcApplicationPartsAssemblyInfo.cs
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.MvcApplicationPartsAssemblyInfo.cache
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\staticwebassets\msbuild.NSE.Pedidos.API.Microsoft.AspNetCore.StaticWebAssets.props
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\staticwebassets\msbuild.build.NSE.Pedidos.API.props
@@ -87,3 +86,4 @@ D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreE
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.pdb
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.genruntimeconfig.cache
 D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\ref\NSE.Pedidos.API.dll
+D:\HomeDesenvolvimentoGeral\ProjetosCursoEnterpriseEduardoPires\EstudoNerdStoreEduardoPires\src\services\NSE.Pedidos.API\obj\Debug\net6.0\NSE.Pedidos.API.MvcApplicationPartsAssemblyInfo.cs
